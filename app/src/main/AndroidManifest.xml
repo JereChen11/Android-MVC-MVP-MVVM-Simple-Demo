@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name="com.example.mvcmvpmvvm.mvvm.view.MvvmLoginActivity"></activity>
-        <activity android:name="com.example.mvcmvpmvvm.mvc.MvcLoginActivity" />
+        <activity android:name="com.example.mvcmvpmvvm.mvc.veiwandcontroller.MvcLoginActivity" />
         <activity android:name="com.example.mvcmvpmvvm.mvp.view.MvpLoginActivity" />
         <activity android:name="com.example.mvcmvpmvvm.MainActivity">
             <intent-filter>
