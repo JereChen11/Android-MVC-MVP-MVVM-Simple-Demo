@@ -1,4 +1,4 @@
-package com.example.mvcmvpmvvm.mvc.veiwandcontroller;
+package com.example.mvcmvpmvvm.mvc.controller;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;

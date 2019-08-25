@@ -6,7 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 
-import com.example.mvcmvpmvvm.mvc.veiwandcontroller.MvcLoginActivity;
+import com.example.mvcmvpmvvm.mvc.controller.MvcLoginActivity;
 import com.example.mvcmvpmvvm.mvp.view.MvpLoginActivity;
 import com.example.mvcmvpmvvm.mvvm.view.MvvmLoginActivity;
 
